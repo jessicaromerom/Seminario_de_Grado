@@ -1,1 +1,2 @@
-Este repositorio contiene los códigos y pasos necesarios para crear el contenido dentro del proyecto de investigacion del Seminario de Grado.
+Este repositorio contiene los códigos y pasos necesarios para crear el contenido dentro del proyecto de investigación del Seminario de Grado. El proyecto está dividido en dos secciones y se puede encontrar en la carpeta “Codes” donde se presenta la parte teórica y la práctica de la investigación, que contienen el desarrollo de la simulación computacional, el cual se encuentra en la carpeta "Desarrollo_SimulacionABP" y los pasos a seguir para la ejecución del modelo de aprendizaje automático en la carpeta "Desarrollo_MLP". Los datos utilizados junto a su visualización se presentan en la carpeta “Data”.
+
